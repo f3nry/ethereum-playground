@@ -1,0 +1,7 @@
+{
+  "deployments": {
+    "blockchain://5ca838836fcd8de3e8b301071483538dec6cf979a040dcf7d472217744543f6a/block/24595d483638e23a76870fb7b5042a5f15f4d36523219bf9be7cf134ec9d9dfb": {
+      "Greeter": "0x206c44b91bb3a09c68a8a2bc35efcb006fc44178"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+version: '2'
+services:
+    ethereum-node:
+        image: ethereum/client-go
+        command: --rpc --rpcaddr "0.0.0.0" --dev
+        volumes: 
+            - geth:/root/.ethereum
+        ports:
+            - "8545:8545"
+            - "30303:30303"
+volumes:
+    geth:
