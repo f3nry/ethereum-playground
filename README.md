@@ -1,4 +1,4 @@
-ICO Playground
+Ethereum Playground
 =============
 
 Scripts and example smart contracts for testing the waters with solidity/ethereum.
