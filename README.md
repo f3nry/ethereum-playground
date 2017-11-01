@@ -30,7 +30,7 @@ In order to deploy contracts, a geth node needs to be running. A docker-compose.
 This node is configured to use the dev network, and internal network with no need for peers.
 
 ```
-cd geth-node/ && docker-compose up
+cd ethereum-node/ && docker-compose up
 ```
 
 # Using the Greeter contract
